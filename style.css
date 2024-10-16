@@ -1,0 +1,22 @@
+* {
+    font-family: "Chakra Petch", sans-serif;
+}
+
+.title {
+    font-family: "Bebas Neue", sans-serif;
+    color: rgb(220, 53, 53);
+}
+
+.bgcolor {
+    background-color: rgb(0, 165, 151);
+}
+
+.bgimg {
+    background-image: url("https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=3500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul:hover {
+    background-color: rgb(239, 243, 16);
+}
